@@ -25,9 +25,5 @@ Tkinter arayüzü sayesinde tekli veya toplu video indirme yapabilirsiniz.
 
 ### 1️⃣ Depoyu klonla
 ```bash
-git clone [https://github.com/<kullaniciadi>/<repo-adi>.git](https://github.com/mmehmeteren/Tkinter_videodownloader.git)
-cd <Tkinter_videodownloader>
-### TERMUX İÇİN
-```bash
-pkg update && pkg upgrade
-pkg install python git
+git clone https://github.com/mmehmeteren/Tkinter_videodownloader.git
+cd Tkinter_videodownloader
